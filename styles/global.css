@@ -150,3 +150,7 @@ hr {
     font: var(--paragraph);
     color: var(--text-secondary);
 }
+
+li {
+    margin-left: 6px;
+}
